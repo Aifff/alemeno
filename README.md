@@ -1,3 +1,41 @@
+To run:
+npm i
+npm start
+
+
+
+
+
+Details:
+First page(Landing page) is of Course listings which displays brief details of all courses available. The code for it is availabel in CourseListingpage.js and CourseList.js.
+
+User can search for courses, with the search bar and the functionality of searching the couses with key as instructor- name and course-name.  
+
+On selecting any course, further details of the course are displayed on a separate page. The code for this is in CourseCard.js.
+
+Users can opt to enroll in a course by clicking the "Enroll Now" button on the CourseCard and the CardListing. The course in which user has enrolled is displayed in the user's dashboard. 
+
+The Dashboard displays the courses that the user has enrolled in and he can also tick the checkbox once he has completed the course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
